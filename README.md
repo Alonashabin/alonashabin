@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** C, Java  
+- **Languages:** C, Java,python,node,c++  
 - **Programming Concepts:**  
   - Data Structures (Linked List, Stack, Queue)  
   - Object-Oriented Programming (OOP)  
