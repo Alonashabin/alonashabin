@@ -45,7 +45,8 @@ Includes basic GUI and console features for product management and user interact
 
 ## 📫 Let’s Connect
 - 🔗 GitHub: https://github.com/Alonashabin  
-- 📧 Email: alonashabin@gmail.com  
+- 📧 Email: alonashabin@gmail.com
+- linkedIn:https://www.linkedin.com/in/alona-shabin-3302a4328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ---
 
